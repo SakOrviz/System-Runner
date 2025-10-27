@@ -1,0 +1,5 @@
+{
+  "name": "System Runner",
+  "description": "A web-based platformer game where you control a character in a blue jumpsuit, dodging computer hardware enemies like PCs, hard drives, and RAM sticks. Use arrow keys to move and jump.",
+  "requestFramePermissions": []
+}
